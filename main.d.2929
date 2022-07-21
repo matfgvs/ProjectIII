@@ -1,0 +1,3 @@
+main.o: main.cpp FiguraGeometrica.hpp sculptor2.hpp voxel.hpp box.hpp \
+  cutVoxel.hpp cutbox.hpp cutellipsoid.hpp cutsphere.hpp ellipsoid.hpp \
+  putVoxel.hpp sphere.hpp
